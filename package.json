@@ -1,0 +1,15 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "this is the server-side program  written by Innocent ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node_Inno"
+  },
+  "author": "Innocent Rwandantechy",
+  "license": "ISC"
+}
